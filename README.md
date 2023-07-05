@@ -6,3 +6,4 @@ Place the element that CSS Code is written inside and can be left blank
 Place the element in which the JavaScript Code is written and can be left blank
 Place the element responsible for calling an external CSS file
 Type the text of This Is My First Page so that it appears inside the page
+
